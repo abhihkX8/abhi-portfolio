@@ -63,7 +63,7 @@ const Navbar = () => {
           >
             <img src={logo} alt="logo" className="w-9 h-9 object-contain" /> 
             <p className="text-white text-[20px] font-bold cursor-pointer flex">
-              ABHIJEET&nbsp
+              ABHIJEET 
               <span className="sm:block hidden">MASKE</span>
             </p>
           </Link>

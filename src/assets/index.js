@@ -4,10 +4,10 @@ import edunet from "./company/edunet.png";
 import eduskill from "./company/eduskill.png";
 
 // Import tech stack images
-import python from "./tech-stack/python.png";
-import c from "./tech-stack/dockerLogo.png";
-import cpp from "./tech-stack/cpp.png";
-import java from "./tech-stack/java.png";
+import kubernetes from "./tech-stack/kuberneteslogo.png";
+import docker from "./tech-stack/dockerlogo2.png";
+import jenkins from "./tech-stack/jenkinslogo.png";
+import aws from "./tech-stack/awslogo.png";
 
 // Import project images
 import weatherpedia from "./projects/WeatherPedia.png";
@@ -36,10 +36,10 @@ import close from "./close.svg";
 export {
   mathwork,
   edunet,
-  python,
-  c,
-  cpp,
-  java,
+  kubernetes,
+  docker,
+  jenkins,
+  aws,
   github,
   css,
   git,
