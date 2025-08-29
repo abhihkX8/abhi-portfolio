@@ -5,7 +5,7 @@ import eduskill from "./company/eduskill.png";
 
 // Import tech stack images
 import python from "./tech-stack/python.png";
-import c from "./tech-stack/c.png";
+import docker from "./tech-stack/dockerLogo.png";
 import cpp from "./tech-stack/cpp.png";
 import java from "./tech-stack/java.png";
 

@@ -40,11 +40,12 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Computer Science student at SRM University and multilingual speaker with a passion
-        for ethical hacking, artificial intelligence, and neural language processing. I am looking
-        to join a company that values innovation, collaboration, and continuous learning and am
-        confident that my enthusiasm and drive will help me succeed in any role that leverages my
-        passion for technology.
+        Hi, I’m Abhijeet Maske – a passionate DevOps Engineer & Cloud Enthusiast 
+        with hands-on experience in building, deploying, and managing scalable applications. 
+        I specialize in tools and technologies like Docker, Kubernetes, Jenkins, GitHub, and CI/CD pipelines, 
+        with a strong foundation in Linux, cloud platforms, and automation.
+        My goal is to contribute to impactful projects, collaborate with like-minded professionals, 
+        and grow as a versatile engineer in the DevOps and cloud ecosystem.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
