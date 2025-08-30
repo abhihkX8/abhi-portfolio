@@ -5,7 +5,7 @@ import eduskill from "./company/eduskill.png";
 
 // Import tech stack images
 import kubernetes from "./tech-stack/kuberneteslogo.png";
-import docker from "./tech-stack/dockerlogo2.png";
+import docker from "./tech-stack/' dockerlogo.png'";
 import jenkins from "./tech-stack/jenkinslogo.png";
 import aws from "./tech-stack/awslogo.png";
 
