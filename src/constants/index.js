@@ -1,8 +1,8 @@
 import {
-  c,
-  python,
-  java,
-  cpp,
+  docker,
+  kubernetes,
+  aws,
+  jenkins,
   javascript,
   html,
   css,
@@ -38,10 +38,10 @@ export const navLinks = [
 ];
 
 export const services = [
-  { title: "C", icon: c },
-  { title: "C++", icon: cpp },
-  { title: "Python", icon: python },
-  { title: "Java", icon: java },
+  { title: "Docker", icon: docker },
+  { title: "Jenkins", icon: jenkins },
+  { title: "Kubernetes", icon: kubernetes },
+  { title: "AWS", icon: aws },
 ];
 
 export const technologies = [
