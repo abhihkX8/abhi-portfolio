@@ -10,16 +10,16 @@ import {
   tailwind,
   nodejs,
   git,
-  edunet,
+  //edunet,
   weatherpedia,
   termpw,
   payloadmaster,
   threejs,
   mhft,
   sketcher,
-  mathwork,
+  //mathwork,
   CompileVortex,
-  eduskill,
+  //eduskill,
 } from "../assets";
 
 export const navLinks = [
@@ -57,41 +57,27 @@ export const technologies = [
 
 export const experiences = [
   {
-    title: "AI/ML Intern",
-    company_name: "EduSkill Foundation | AWS Academy | AICTE",
-    icon: eduskill,
+    title: "Education",
+    company_name: "Balbhim Collage | BCA |",
     iconBg: "#161329",
-    date: "Sep 2023 - Nov 2023",
+    date: "Jun 2022 - May 2025",
     points: [
-      "Acquired hands-on knowledge of AWS Cloud Foundation, delving into cloud infrastructure, services, and deployment.",
-      "also gaining a solid foundation in Machine Learning, covering topics like algorithms, data analysis, and model building.",
+      "Gained strong foundation in computer science, Programming,software devlopment and Hands-on Experience with languages like C, C++, Python, and Java",
+      "Developed intrest in DevOps and Cloud Computing through during my course",
     ],
   },
   {
-    title: "Mathwork Ai Virtual Intern",
-    company_name: "Mathwork | AICTE",
-    icon: mathwork,
+    title: "Extra Curricular Activities",
+    company_name: "Symbiosis | ELTIS- Pune",
     iconBg: "#161329",
-    date: "May 2023 - Sep 2023",
+    date: "Jun 2025",
     points: [
-      "Completed virtual internship, gaining a strong foundation in MATLAB, including data analysis and processing.",
-      "Acquired practical skills in image and signal processing, including segmentation, batch processing, and spectral analysis.",
-      "Developed expertise in machine learning models for clustering, classification, and regression, and customized deep learning techniques for image classification.",
+      "Improved communication skills by practicing group discussions, debetes, and public speaking",
+      "Gained confisence in interviews and learned to work effectively in teams",
+      "Focused on overall personality development",
     ],
   },
-  {
-    title: "Artificial Intelligence Intern",
-    company_name: "Edunet Foundation | IBM SkillsBuild | AICTE",
-    icon: edunet,
-    iconBg: "#161329",
-    date: "June 2023 - July 2023",
-    points: [
-      "Engineered a comprehensive Mental Health Fitness Tracker ML model utilizing Python and scikit-learn.",
-      "Maximized the model's performance by refining model parameters and employing ensemble methods, yielding an outstanding accuracy percentage of 98.50%.",
-      "Leveraged 12 regression algorithms to attain precise outcomes in analyzing and predicting mental fitness levels across 150+ countries.",
-    ],
-  },
-];
+  ];
 
 export const projects = [
   {

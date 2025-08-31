@@ -1,7 +1,7 @@
 // Import company logos
-import mathwork from "./company/mathwork.png";
-import edunet from "./company/edunet.png";
-import eduskill from "./company/eduskill.png";
+//import mathwork from "./company/mathwork.png";
+//import edunet from "./company/edunet.png";
+//import eduskill from "./company/eduskill.png";
 
 // Import tech stack images
 import kubernetes from "./tech-stack/kuberneteslogo.png";
@@ -28,14 +28,14 @@ import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.png";
 
 // Import common assets
-import logo from "./logo.svg";
+import logo from "./logo.webp";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
 export {
-  mathwork,
-  edunet,
+  //mathwork,
+  //edunet,
   kubernetes,
   docker,
   jenkins,
@@ -58,5 +58,5 @@ export {
   logo,
   menu,
   close,
-  eduskill,
+  //eduskill,
 };
