@@ -10,12 +10,12 @@ import jenkins from "./tech-stack/jenkinslogo.png";
 import aws from "./tech-stack/awslogo.png";
 
 // Import project images
-import weatherpedia from "./projects/WeatherPedia.png";
-import termpw from "./projects/termpw.png";
-import payloadmaster from "./projects/payloadmaster.png";
-import mhft from "./projects/mhft.png";
-import sketcher from "./projects/sketcher.png";
-import CompileVortex from "./projects/CompileVortex.png";
+import weatherpedia from "./projects/onlineshop.png";
+import termpw from "./projects/bankapp.png";
+import payloadmaster from "./projects/swiggy.png";
+import mhft from "./projects/wanderlust.png";
+//import sketcher from "./projects/.png";
+import CompileVortex from "./projects/threetier.png";
 
 // Import tech logos
 import css from "./tech/githublogo.png";
@@ -53,7 +53,7 @@ export {
   termpw,
   payloadmaster,
   mhft,
-  sketcher,
+  //sketcher,
   CompileVortex,
   logo,
   menu,

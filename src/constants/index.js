@@ -16,7 +16,7 @@ import {
   payloadmaster,
   threejs,
   mhft,
-  sketcher,
+  //sketcher,
   //mathwork,
   CompileVortex,
   //eduskill,
@@ -81,34 +81,34 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "WeatherPedia",
+    name: "online_shop_app",
     description:
-      "Web-based platform that allows users to access weather information for their location by entering it in the search field",
+      "responsive e-commerce website deployed on AWS using EC2 using jenkins CI/CD pipeline ",
     tags: [
-      { name: "Javascript", color: "blue-text-gradient" },
-      { name: "HTML", color: "green-text-gradient" },
-      { name: "bootstrap 5.3.0", color: "pink-text-gradient" },
-      { name: "Weather API by API Ninjas", color: "yellow-text-gradient" },
+      { name: "jenkins", color: "blue-text-gradient" },
+      { name: "CI/CD", color: "green-text-gradient" },
+      { name: "AWS", color: "pink-text-gradient" },
+      { name: "EC2", color: "yellow-text-gradient" },
     ],
     image: weatherpedia,
-    source_code_link: "https://github.com/lohitkolluri/WeatherPedia",
+    source_code_link: "https://github.com/abhihkX8/online_shop_app/tree/dev",
   },
   {
-    name: "Terminal Like Portfolio Website",
+    name: "springboot-banking-app",
     description:
-      "A terminal themed portfolio website that allows users to type into the terminal and use commands like a real terminal.",
+      "A simple banking application using Spring Boot needed to be deployed with DevSecOps. create a CI/CD pipeline integrated SonarQube, Trivy, and OWASP Dependency-Check for security ",
     tags: [
-      { name: "HTML", color: "blue-text-gradient" },
-      { name: "css", color: "green-text-gradient" },
-      { name: "Javascript", color: "pink-text-gradient" },
+      { name: "DecSecOps", color: "blue-text-gradient" },
+      { name: "CI/CD", color: "green-text-gradient" },
+      { name: "AWS", color: "pink-text-gradient" },
     ],
     image: termpw,
-    source_code_link: "https://github.com/lohitkolluri/lohitkolluri.github.io",
+    source_code_link: "https://github.com/abhihkX8/Springboot-BankApp/tree/dev",
   },
   {
-    name: "Mental Health Fitness Tracker",
+    name: "Wanderlust",
     description:
-      "ML model that utilizes regression techniques to provide insights into mental health and make predictions based on the available data.",
+      "wanderlust is a travel website deployed with DevSecOps uasing jenkins CI/CD pipeline integrated SonarQube, Trivy and OWASP Dependency-check for security",
     tags: [
       { name: "Machine Learning", color: "blue-text-gradient" },
       { name: "Jupyter Notebook", color: "green-text-gradient" },
@@ -116,41 +116,41 @@ export const projects = [
     ],
     image: mhft,
     source_code_link:
-      "https://github.com/lohitkolluri/mental_health_fitness_tracker",
+      "https://github.com/abhihkX8/Wanderlust/tree/dev",
   },
   {
-    name: "PayloadMaster",
+    name: "A-swiggy-clone",
     description:
-      "Tool to automate payload creation using the Metasploit framework",
+      "A food delevery app clone deployed on kind cluster using docker and kubernetes on AWS EC2 instance",
     tags: [
       { name: "shell", color: "blue-text-gradient" },
     ],
     image: payloadmaster,
-    source_code_link: "https://github.com/lohitkolluri/PayloadMaster",
+    source_code_link: "https://github.com/abhihkX8/a-swiggy-clone",
   },
   {
-    name: "CompileVortex",
+    name: "Three-tier-app",
     description:
-      "Tool to automate payload creation using the Metasploit framework",
+      "A three-tier application scaled using k8s and docker, deployed on AWS EC2 instance",
     tags: [
       { name: "Javascript", color: "blue-text-gradient" },
       { name: "CSS", color: "green-text-gradient" },
       { name: "HTML", color: "pink-text-gradient" },
     ],
     image: CompileVortex,
-    source_code_link: "https://github.com/lohitkolluri/CompileVortex",
+    source_code_link: "https://github.com/abhihkX8/ThreeTierApp/tree/my-branch",
   },
   {
-    name: "Sketcher",
+    name: "portfolio-website",
     description:
-      "Convert an input image to a pencil sketch using OpenCV and Matplotlib libraries.",
+      "simple portfolio website to showcase my skills and project using html and css in my college days",
     tags: [
-      { name: "OpenCV", color: "blue-text-gradient" },
-      { name: "Matplotlib", color: "green-text-gradient" },
-      { name: "Python", color: "pink-text-gradient" },
+      { name: "portfolio", color: "blue-text-gradient" },
+      { name: "html", color: "green-text-gradient" },
+      { name: "css", color: "pink-text-gradient" },
     ],
 
-    image: sketcher,
-    source_code_link: "https://github.com/lohitkolluri/Image_to_Pencil_Sketch_App",
+    //image: sketcher,
+    source_code_link: "https://github.com/abhihkX8/resume",
   },
 ];
