@@ -110,9 +110,9 @@ export const projects = [
     description:
       "wanderlust is a travel website deployed with DevSecOps uasing jenkins CI/CD pipeline integrated SonarQube, Trivy and OWASP Dependency-check for security",
     tags: [
-      { name: "Machine Learning", color: "blue-text-gradient" },
-      { name: "Jupyter Notebook", color: "green-text-gradient" },
-      { name: "Regression Algorithms", color: "pink-text-gradient" },
+      { name: "SonarQueb", color: "blue-text-gradient" },
+      { name: "Trivy", color: "green-text-gradient" },
+      { name: "OWASP Dependency", color: "pink-text-gradient" },
     ],
     image: mhft,
     source_code_link:
@@ -123,7 +123,9 @@ export const projects = [
     description:
       "A food delevery app clone deployed on kind cluster using docker and kubernetes on AWS EC2 instance",
     tags: [
-      { name: "shell", color: "blue-text-gradient" },
+      { name: "kind", color: "blue-text-gradient" },
+      { name: "Docker", color: "blue-text-gradient" },
+      { name: "kubernetes", color: "blue-text-gradient" },
     ],
     image: payloadmaster,
     source_code_link: "https://github.com/abhihkX8/a-swiggy-clone",
@@ -133,9 +135,9 @@ export const projects = [
     description:
       "A three-tier application scaled using k8s and docker, deployed on AWS EC2 instance",
     tags: [
-      { name: "Javascript", color: "blue-text-gradient" },
-      { name: "CSS", color: "green-text-gradient" },
-      { name: "HTML", color: "pink-text-gradient" },
+      { name: "k8s", color: "blue-text-gradient" },
+      { name: "docker", color: "green-text-gradient" },
+      { name: "AWS", color: "pink-text-gradient" },
     ],
     image: CompileVortex,
     source_code_link: "https://github.com/abhihkX8/ThreeTierApp/tree/my-branch",
