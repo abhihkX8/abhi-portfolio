@@ -40,12 +40,12 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Hi, I’m Abhijeet Maske – a passionate DevOps Engineer & Cloud Enthusiast 
-        with hands-on experience in building, deploying, and managing scalable applications. 
-        I specialize in tools and technologies like Docker, Kubernetes, Jenkins, GitHub, and CI/CD pipelines, 
-        with a strong foundation in Linux, cloud platforms, and automation.
-        My goal is to contribute to impactful projects, collaborate with like-minded professionals, 
-        and grow as a versatile engineer in the DevOps and cloud ecosystem.
+        Hi I am Abhijeet Maske a passionate DevOps Engineer and Cloud Enthusiast with hands-on experience in building,
+        deploying, and managing scalable applications. I specialize in tools and technologies like Docker, Kubernetes, Jenkins,
+        GitHub, and CI/CD pipelines. with a strong foundation in cloud platforms, Linux and automation,
+        My goal is to contribute to impactful projects, collaborate with like minded professionals, 
+        and grow as a versatile Engineer in the Devops and cloud ecosystem.
+        Let's connect and explore how we can work together to achieve great things!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
